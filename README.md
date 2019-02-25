@@ -1,7 +1,5 @@
-﻿# BlueRoll
+# BlueRoll
 
-BlueRoll is a Bluetooth Attendance system that uses the bluetooth to take attendance and mark students as present or absent in an excel spreadsheet. 
+BlueRoll is a system using Bluetooth to monitor attendance. The system has the ability to register bluetooth devices as students, allows an instructor to locate nearby (within 10 meters) students and mark them as present, allows an instructor to manually enter attendance for students, and give a simple summary report to the instructor. Simply, it should allow an instructor to quickly take attendance in a class setting.
 
-Run the Program using the .jar file in jar/ folder
-	All the *csv files will need to be in the same directory as the jar file.
-
+System Requirements Specification, System Design, and testing documentation can be found in the documents folder for a more detailed overview of the systmes capabilities.
