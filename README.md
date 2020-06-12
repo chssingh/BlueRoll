@@ -4,4 +4,4 @@ BlueRoll is a system using Bluetooth to monitor attendance. The system has the a
 
 For a more detailed description on the functionality of BlueRoll, please refer to the System Requirements Specification and System Design documentation located in the documents folder.
 
-To run BlueRoll, execute BlueRoll.jar located in the jar folder.
+To run BlueRoll, execute BlueRoll.jar located in the jar folder and keep the bluetooth of the device remain on while testing.
